@@ -1,0 +1,307 @@
+{
+  "results": [
+    {
+      "seed": 42,
+      "p": 97,
+      "eta": 0.001,
+      "lam": 1.0,
+      "config": "sgd_2lam",
+      "config_label": "SGD(wd=2*lam)",
+      "theory_rate": 0.998,
+      "T_mem": null,
+      "T_grok": null,
+      "V_at_mem": null,
+      "V_final": 3.6208184610586613e-05,
+      "fit": null
+    },
+    {
+      "seed": 43,
+      "p": 97,
+      "eta": 0.001,
+      "lam": 1.0,
+      "config": "sgd_2lam",
+      "config_label": "SGD(wd=2*lam)",
+      "theory_rate": 0.998,
+      "T_mem": null,
+      "T_grok": null,
+      "V_at_mem": null,
+      "V_final": 2.9438384444802068e-05,
+      "fit": null
+    },
+    {
+      "seed": 44,
+      "p": 97,
+      "eta": 0.001,
+      "lam": 1.0,
+      "config": "sgd_2lam",
+      "config_label": "SGD(wd=2*lam)",
+      "theory_rate": 0.998,
+      "T_mem": null,
+      "T_grok": null,
+      "V_at_mem": null,
+      "V_final": 2.439407580823172e-05,
+      "fit": null
+    },
+    {
+      "seed": 45,
+      "p": 97,
+      "eta": 0.001,
+      "lam": 1.0,
+      "config": "sgd_2lam",
+      "config_label": "SGD(wd=2*lam)",
+      "theory_rate": 0.998,
+      "T_mem": null,
+      "T_grok": null,
+      "V_at_mem": null,
+      "V_final": 2.9118793463567272e-05,
+      "fit": null
+    },
+    {
+      "seed": 46,
+      "p": 97,
+      "eta": 0.001,
+      "lam": 1.0,
+      "config": "sgd_2lam",
+      "config_label": "SGD(wd=2*lam)",
+      "theory_rate": 0.998,
+      "T_mem": null,
+      "T_grok": null,
+      "V_at_mem": null,
+      "V_final": 2.727415630943142e-05,
+      "fit": null
+    },
+    {
+      "seed": 42,
+      "p": 97,
+      "eta": 0.001,
+      "lam": 1.0,
+      "config": "sgd_1lam",
+      "config_label": "SGD(wd=lam)",
+      "theory_rate": 0.999,
+      "T_mem": null,
+      "T_grok": null,
+      "V_at_mem": null,
+      "V_final": 0.00014055136125534773,
+      "fit": null
+    },
+    {
+      "seed": 43,
+      "p": 97,
+      "eta": 0.001,
+      "lam": 1.0,
+      "config": "sgd_1lam",
+      "config_label": "SGD(wd=lam)",
+      "theory_rate": 0.999,
+      "T_mem": null,
+      "T_grok": null,
+      "V_at_mem": null,
+      "V_final": 0.00011658797302516177,
+      "fit": null
+    },
+    {
+      "seed": 44,
+      "p": 97,
+      "eta": 0.001,
+      "lam": 1.0,
+      "config": "sgd_1lam",
+      "config_label": "SGD(wd=lam)",
+      "theory_rate": 0.999,
+      "T_mem": null,
+      "T_grok": null,
+      "V_at_mem": null,
+      "V_final": 9.455852705286816e-05,
+      "fit": null
+    },
+    {
+      "seed": 45,
+      "p": 97,
+      "eta": 0.001,
+      "lam": 1.0,
+      "config": "sgd_1lam",
+      "config_label": "SGD(wd=lam)",
+      "theory_rate": 0.999,
+      "T_mem": null,
+      "T_grok": null,
+      "V_at_mem": null,
+      "V_final": 0.00011312848801026121,
+      "fit": null
+    },
+    {
+      "seed": 46,
+      "p": 97,
+      "eta": 0.001,
+      "lam": 1.0,
+      "config": "sgd_1lam",
+      "config_label": "SGD(wd=lam)",
+      "theory_rate": 0.999,
+      "T_mem": null,
+      "T_grok": null,
+      "V_at_mem": null,
+      "V_final": 0.00010534010652918369,
+      "fit": null
+    },
+    {
+      "seed": 42,
+      "p": 97,
+      "eta": 0.001,
+      "lam": 1.0,
+      "config": "adamw_1lam",
+      "config_label": "AdamW(wd=lam)",
+      "theory_rate": 0.999,
+      "T_mem": 800,
+      "T_grok": 1800,
+      "V_at_mem": 3891.4934865469113,
+      "V_final": 211.300218526565,
+      "fit": {
+        "rate_fit": 0.9986744394045662,
+        "rate_theory": 0.998,
+        "R2": 0.9991034076632168,
+        "A": 3644.200785184162,
+        "C": 200.57313297617262
+      }
+    },
+    {
+      "seed": 43,
+      "p": 97,
+      "eta": 0.001,
+      "lam": 1.0,
+      "config": "adamw_1lam",
+      "config_label": "AdamW(wd=lam)",
+      "theory_rate": 0.999,
+      "T_mem": 800,
+      "T_grok": 2000,
+      "V_at_mem": 3846.085933053866,
+      "V_final": 244.961385536124,
+      "fit": {
+        "rate_fit": 0.9986258225906003,
+        "rate_theory": 0.998,
+        "R2": 0.9991949433388303,
+        "A": 3594.4087378466234,
+        "C": 226.97940194382969
+      }
+    },
+    {
+      "seed": 44,
+      "p": 97,
+      "eta": 0.001,
+      "lam": 1.0,
+      "config": "adamw_1lam",
+      "config_label": "AdamW(wd=lam)",
+      "theory_rate": 0.999,
+      "T_mem": 800,
+      "T_grok": 1600,
+      "V_at_mem": 3916.5983461430296,
+      "V_final": 217.6744860826293,
+      "fit": {
+        "rate_fit": 0.9985563148640028,
+        "rate_theory": 0.998,
+        "R2": 0.9988925669405251,
+        "A": 3660.6590939468933,
+        "C": 210.26947289728227
+      }
+    },
+    {
+      "seed": 45,
+      "p": 97,
+      "eta": 0.001,
+      "lam": 1.0,
+      "config": "adamw_1lam",
+      "config_label": "AdamW(wd=lam)",
+      "theory_rate": 0.999,
+      "T_mem": 800,
+      "T_grok": 1600,
+      "V_at_mem": 3887.299600127153,
+      "V_final": 292.0602123704739,
+      "fit": {
+        "rate_fit": 0.9984804760669936,
+        "rate_theory": 0.998,
+        "R2": 0.9989592236508442,
+        "A": 3598.326092303317,
+        "C": 259.41668439448637
+      }
+    },
+    {
+      "seed": 46,
+      "p": 97,
+      "eta": 0.001,
+      "lam": 1.0,
+      "config": "adamw_1lam",
+      "config_label": "AdamW(wd=lam)",
+      "theory_rate": 0.999,
+      "T_mem": 800,
+      "T_grok": 1800,
+      "V_at_mem": 3944.127168091014,
+      "V_final": 276.83021265731077,
+      "fit": {
+        "rate_fit": 0.9985872935832569,
+        "rate_theory": 0.998,
+        "R2": 0.9988748861574865,
+        "A": 3652.8461387002594,
+        "C": 249.75939971991042
+      }
+    }
+  ],
+  "comparison": {
+    "sgd_2lam": {
+      "label": "SGD(wd=2*lam)",
+      "theory_rate": 0.998,
+      "mean_rate_fit": null,
+      "std_rate_fit": null,
+      "mean_R2": null,
+      "gap_from_theory": null,
+      "n_grokked": 0,
+      "n_total": 5,
+      "mean_T_grok": null,
+      "std_T_grok": null
+    },
+    "sgd_1lam": {
+      "label": "SGD(wd=lam)",
+      "theory_rate": 0.999,
+      "mean_rate_fit": null,
+      "std_rate_fit": null,
+      "mean_R2": null,
+      "gap_from_theory": null,
+      "n_grokked": 0,
+      "n_total": 5,
+      "mean_T_grok": null,
+      "std_T_grok": null
+    },
+    "adamw_1lam": {
+      "label": "AdamW(wd=lam)",
+      "theory_rate": 0.999,
+      "mean_rate_fit": 0.998584869301884,
+      "std_rate_fit": 6.545098273509628e-05,
+      "mean_R2": 0.9990050055501806,
+      "gap_from_theory": 0.00041513069811605074,
+      "n_grokked": 5,
+      "n_total": 5,
+      "mean_T_grok": 1760.0,
+      "std_T_grok": 149.66629547095766
+    }
+  },
+  "configs": [
+    "sgd_2lam",
+    "sgd_1lam",
+    "adamw_1lam"
+  ],
+  "config_details": [
+    {
+      "name": "sgd_2lam",
+      "label": "SGD(wd=2*lam)",
+      "description": "Matches paper: theta - eta(grad + 2*lam*theta)",
+      "theory_rate": 0.998
+    },
+    {
+      "name": "sgd_1lam",
+      "label": "SGD(wd=lam)",
+      "description": "Half the paper WD: theta - eta(grad + lam*theta)",
+      "theory_rate": 0.999
+    },
+    {
+      "name": "adamw_1lam",
+      "label": "AdamW(wd=lam)",
+      "description": "Decoupled WD: (1-eta*lam)*theta - eta*adam_step",
+      "theory_rate": 0.999
+    }
+  ]
+}

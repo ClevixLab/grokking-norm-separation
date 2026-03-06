@@ -1,0 +1,13 @@
+# Core training
+torch>=2.0
+numpy>=1.24
+scipy>=1.10
+
+# Figures
+matplotlib>=3.7
+
+# Analysis (used by S2, S4, S7)
+scikit-learn>=1.2
+
+# Optional: progress bars (not required)
+# tqdm>=4.65

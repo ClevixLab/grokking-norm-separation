@@ -1,0 +1,272 @@
+[
+  {
+    "seed": 42,
+    "n": 20,
+    "k": 3,
+    "task": "parity",
+    "T_mem": 200,
+    "T_grok": 200,
+    "delay": 0,
+    "V_at_mem": 139.50445556640625,
+    "V_final": 221.16893005371094,
+    "fit": null,
+    "parity_set": [
+      0,
+      1,
+      2
+    ],
+    "n_train": 25000
+  },
+  {
+    "seed": 43,
+    "n": 20,
+    "k": 3,
+    "task": "parity",
+    "T_mem": 200,
+    "T_grok": 200,
+    "delay": 0,
+    "V_at_mem": 140.9967041015625,
+    "V_final": 243.5186309814453,
+    "fit": null,
+    "parity_set": [
+      0,
+      1,
+      2
+    ],
+    "n_train": 25000
+  },
+  {
+    "seed": 44,
+    "n": 20,
+    "k": 3,
+    "task": "parity",
+    "T_mem": 200,
+    "T_grok": 200,
+    "delay": 0,
+    "V_at_mem": 140.1751251220703,
+    "V_final": 204.32373046875,
+    "fit": null,
+    "parity_set": [
+      0,
+      1,
+      2
+    ],
+    "n_train": 25000
+  },
+  {
+    "seed": 45,
+    "n": 20,
+    "k": 3,
+    "task": "parity",
+    "T_mem": 200,
+    "T_grok": 200,
+    "delay": 0,
+    "V_at_mem": 143.4943389892578,
+    "V_final": 295.7035827636719,
+    "fit": null,
+    "parity_set": [
+      0,
+      1,
+      2
+    ],
+    "n_train": 25000
+  },
+  {
+    "seed": 46,
+    "n": 20,
+    "k": 3,
+    "task": "parity",
+    "T_mem": 200,
+    "T_grok": 200,
+    "delay": 0,
+    "V_at_mem": 138.9595489501953,
+    "V_final": 188.61935424804688,
+    "fit": null,
+    "parity_set": [
+      0,
+      1,
+      2
+    ],
+    "n_train": 25000
+  },
+  {
+    "seed": 42,
+    "n": 30,
+    "k": 3,
+    "task": "parity",
+    "T_mem": 200,
+    "T_grok": 200,
+    "delay": 0,
+    "V_at_mem": 123.7374496459961,
+    "V_final": 181.5950164794922,
+    "fit": null,
+    "parity_set": [
+      0,
+      1,
+      2
+    ],
+    "n_train": 25000
+  },
+  {
+    "seed": 43,
+    "n": 30,
+    "k": 3,
+    "task": "parity",
+    "T_mem": 200,
+    "T_grok": 200,
+    "delay": 0,
+    "V_at_mem": 100.81182861328125,
+    "V_final": 246.3212890625,
+    "fit": null,
+    "parity_set": [
+      0,
+      1,
+      2
+    ],
+    "n_train": 25000
+  },
+  {
+    "seed": 44,
+    "n": 30,
+    "k": 3,
+    "task": "parity",
+    "T_mem": 200,
+    "T_grok": 200,
+    "delay": 0,
+    "V_at_mem": 116.53369140625,
+    "V_final": 223.63734436035156,
+    "fit": null,
+    "parity_set": [
+      0,
+      1,
+      2
+    ],
+    "n_train": 25000
+  },
+  {
+    "seed": 45,
+    "n": 30,
+    "k": 3,
+    "task": "parity",
+    "T_mem": 200,
+    "T_grok": 200,
+    "delay": 0,
+    "V_at_mem": 110.2294921875,
+    "V_final": 192.99058532714844,
+    "fit": null,
+    "parity_set": [
+      0,
+      1,
+      2
+    ],
+    "n_train": 25000
+  },
+  {
+    "seed": 46,
+    "n": 30,
+    "k": 3,
+    "task": "parity",
+    "T_mem": 200,
+    "T_grok": 200,
+    "delay": 0,
+    "V_at_mem": 106.6028060913086,
+    "V_final": 253.45091247558594,
+    "fit": null,
+    "parity_set": [
+      0,
+      1,
+      2
+    ],
+    "n_train": 25000
+  },
+  {
+    "seed": 42,
+    "n": 40,
+    "k": 3,
+    "task": "parity",
+    "T_mem": 400,
+    "T_grok": 200,
+    "delay": -200,
+    "V_at_mem": 133.86553955078125,
+    "V_final": 177.20799255371094,
+    "fit": null,
+    "parity_set": [
+      0,
+      1,
+      2
+    ],
+    "n_train": 25000
+  },
+  {
+    "seed": 43,
+    "n": 40,
+    "k": 3,
+    "task": "parity",
+    "T_mem": 400,
+    "T_grok": 200,
+    "delay": -200,
+    "V_at_mem": 139.3675994873047,
+    "V_final": 190.8950653076172,
+    "fit": null,
+    "parity_set": [
+      0,
+      1,
+      2
+    ],
+    "n_train": 25000
+  },
+  {
+    "seed": 44,
+    "n": 40,
+    "k": 3,
+    "task": "parity",
+    "T_mem": 200,
+    "T_grok": 200,
+    "delay": 0,
+    "V_at_mem": 88.61319732666016,
+    "V_final": 186.19003295898438,
+    "fit": null,
+    "parity_set": [
+      0,
+      1,
+      2
+    ],
+    "n_train": 25000
+  },
+  {
+    "seed": 45,
+    "n": 40,
+    "k": 3,
+    "task": "parity",
+    "T_mem": 200,
+    "T_grok": 200,
+    "delay": 0,
+    "V_at_mem": 85.23040771484375,
+    "V_final": 241.7613067626953,
+    "fit": null,
+    "parity_set": [
+      0,
+      1,
+      2
+    ],
+    "n_train": 25000
+  },
+  {
+    "seed": 46,
+    "n": 40,
+    "k": 3,
+    "task": "parity",
+    "T_mem": 400,
+    "T_grok": 200,
+    "delay": -200,
+    "V_at_mem": 133.09503173828125,
+    "V_final": 212.2584228515625,
+    "fit": null,
+    "parity_set": [
+      0,
+      1,
+      2
+    ],
+    "n_train": 25000
+  }
+]
