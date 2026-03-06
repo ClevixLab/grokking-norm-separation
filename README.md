@@ -1,6 +1,6 @@
 # Grokking Delay — Experimental Validation Suite
 
-Reproducible experiments for **"Why Grokking Takes So Long: A First-Principles Theory of Representational Phase Transitions"** (Truong X.K., Truong Q.H., Luu D.T., March 2026).
+Reproducible experiments for **"The Norm-Separation Delay Law of Grokking: A First-Principles Theory of Delayed Generalization"** (Truong X.K., Truong Q.H., Luu D.T., Duc P.T., March 2026).
 
 ## Overview
 
@@ -120,8 +120,8 @@ torch, numpy, scipy, sklearn, matplotlib
 
 ```bibtex
 @article{truong2026grokking,
-  title={Why Grokking Takes So Long: A First-Principles Theory of Representational Phase Transitions},
-  author={Truong, Xuan Khanh and Truong, Quynh Hoa and Luu, Duc Trung},
+  title={The Norm-Separation Delay Law of Grokking: A First-Principles Theory of Delayed Generalization},
+  author={Truong, Xuan Khanh and Truong, Quynh Hoa and Luu, Duc Trung and Phan, Thanh Duc},
   year={2026},
   institution={H\&K Research Studio, Clevix LLC}
 }
